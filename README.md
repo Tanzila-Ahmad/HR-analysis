@@ -42,7 +42,7 @@ Traditional HR reporting tends to be reactive — problems surface after they've
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](dashboard.png)
 
 ---
 
